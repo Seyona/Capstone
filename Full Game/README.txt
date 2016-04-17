@@ -1,0 +1,1 @@
+This Folder contains the full game, to play the game click on the red dragon
