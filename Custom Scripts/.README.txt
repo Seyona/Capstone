@@ -1,0 +1,4 @@
+These are custom scripts found online through the RPGMAKER community some have been slightly modified from their original state to better
+fit my project.
+
+I have read through the code to fix some compatability issues and bugs because not all of these were guaranteed to work together.
